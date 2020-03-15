@@ -1,0 +1,22 @@
+{
+  "name": "fantasy-beer-league-cliient",
+  "version": "0.0.0",
+  "description": "Client for fantasy beer league",
+  "main": "index.js",
+  "author": "Ben Copeland",
+  "license": "None",
+  "private": false,
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "clean-webpack-plugin": "^3.0.0",
+    "fable-compiler": "^2.4.21",
+    "fable-loader": "^2.1.9",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
