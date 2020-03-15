@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="node_modules/@babel/core" t="IncludeRecursive" />
+      <e p="node_modules/@types" t="IncludeRecursive">
+        <e p="anymatch" t="IncludeRecursive" />
+        <e p="events" t="IncludeRecursive" />
+        <e p="minimatch" t="IncludeRecursive" />
+        <e p="node" t="IncludeRecursive" />
+        <e p="source-list-map" t="IncludeRecursive" />
+        <e p="tapable" t="IncludeRecursive" />
+        <e p="uglify-js" t="IncludeRecursive" />
+        <e p="unist" t="IncludeRecursive" />
+        <e p="vfile-message" t="IncludeRecursive" />
+        <e p="webpack-sources" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules/bulma" t="IncludeRecursive" />
+      <e p="node_modules/chalk" t="IncludeRecursive" />
+      <e p="node_modules/clean-webpack-plugin" t="IncludeRecursive" />
+      <e p="node_modules/css-loader" t="IncludeRecursive" />
+      <e p="node_modules/fable-compiler" t="IncludeRecursive" />
+      <e p="node_modules/fable-loader" t="IncludeRecursive" />
+      <e p="node_modules/font-awesome" t="IncludeRecursive" />
+      <e p="node_modules/html-webpack-plugin" t="IncludeRecursive" />
+      <e p="node_modules/node-sass" t="IncludeRecursive" />
+      <e p="node_modules/postcss" t="IncludeRecursive" />
+      <e p="node_modules/postcss-loader" t="IncludeRecursive" />
+      <e p="node_modules/react" t="IncludeRecursive" />
+      <e p="node_modules/react-dom" t="IncludeRecursive" />
+      <e p="node_modules/react-router-dom" t="IncludeRecursive" />
+      <e p="node_modules/sass-loader" t="IncludeRecursive" />
+      <e p="node_modules/source-map" t="IncludeRecursive" />
+      <e p="node_modules/style-loader" t="IncludeRecursive" />
+      <e p="node_modules/stylelint" t="IncludeRecursive" />
+      <e p="node_modules/stylelint-config-standard" t="IncludeRecursive" />
+      <e p="node_modules/stylelint-webpack-plugin" t="IncludeRecursive" />
+      <e p="node_modules/vfile-message" t="IncludeRecursive" />
+      <e p="node_modules/webpack" t="IncludeRecursive" />
+      <e p="node_modules/webpack-cli" t="IncludeRecursive" />
+      <e p="node_modules/webpack-dev-server" t="IncludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+  </component>
+</project>
