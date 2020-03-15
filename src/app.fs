@@ -6,6 +6,7 @@ open ReactRouter.BrowserRouter
 open ReactRouter.Link
 open ReactRouter.Switch
 open ReactRouter.Route
+open Fulma
 
 let App() =
     BrowserRouter [] [
@@ -16,4 +17,13 @@ let App() =
             Route [Path "/about"] [str "Content of the About page!"]
             Route [Path "/"] [str "Content of the Home page!"]
         ]
+        
+        // TODO: Make sure webpack loads css into index.html
+        Tag.list
+            [ Tag.List.HasAddons ]
+            [ Tag.tag 
+                [ Tag.Color IsDanger ]
+                [ str "High priority" ]
+              Tag.delete [ ] [ ]
+            ]
     ]
