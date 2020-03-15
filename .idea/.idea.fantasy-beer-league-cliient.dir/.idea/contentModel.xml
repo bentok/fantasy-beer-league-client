@@ -10,6 +10,13 @@
         <e p="index.html" t="Include" />
         <e p="Main.fs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
+        <e p="reset.css" t="Include" />
+        <e p="router" t="Include">
+          <e p="browser-router.fs" t="Include" />
+          <e p="link.fs" t="Include" />
+          <e p="route.fs" t="Include" />
+          <e p="switch.fs" t="Include" />
+        </e>
       </e>
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />

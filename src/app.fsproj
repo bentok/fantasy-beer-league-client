@@ -5,8 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="router\browser-router.fs" />
+    <Compile Include="router\link.fs" />
+    <Compile Include="router\route.fs" />
+    <Compile Include="router\switch.fs" />
     <Compile Include="app.fs" />
     <Compile Include="main.fs" />
+    <Content Include="reset.css" />
     <Content Include="index.html" />
   </ItemGroup>
 

@@ -1,4 +1,5 @@
 # fantasy-beer-league-client
 
-Compile project
-`yarn webpack`
+Compile and serve project on `localhost:8080`
+
+`yarn start`
