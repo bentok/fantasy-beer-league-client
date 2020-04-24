@@ -9,6 +9,7 @@
     <Compile Include="router\link.fs" />
     <Compile Include="router\route.fs" />
     <Compile Include="router\switch.fs" />
+    <Compile Include="hooks\use-state.fs" />
     <Compile Include="home.fs" />
     <Compile Include="app.fs" />
     <Content Include="main.scss" />
