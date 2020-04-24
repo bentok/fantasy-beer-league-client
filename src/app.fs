@@ -22,11 +22,9 @@ let headline() =
         let value: string = event.target?value
         setGreeting value
 
-    let change = onChange
-
     div [] [
         h1 [] [str greeting]
-        input [ OnChange change ]
+        input [ OnChange onChange ]
     ]
 
 let app() =
