@@ -3,6 +3,7 @@
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="node_modules/@babel/core" t="IncludeRecursive" />
+      <e p="node_modules/@babel/preset-react" t="IncludeRecursive" />
       <e p="node_modules/@types" t="IncludeRecursive">
         <e p="anymatch" t="IncludeRecursive" />
         <e p="events" t="IncludeRecursive" />
@@ -15,6 +16,7 @@
         <e p="vfile-message" t="IncludeRecursive" />
         <e p="webpack-sources" t="IncludeRecursive" />
       </e>
+      <e p="node_modules/babel-loader" t="IncludeRecursive" />
       <e p="node_modules/bulma" t="IncludeRecursive" />
       <e p="node_modules/chalk" t="IncludeRecursive" />
       <e p="node_modules/clean-webpack-plugin" t="IncludeRecursive" />
@@ -22,7 +24,9 @@
       <e p="node_modules/fable-compiler" t="IncludeRecursive" />
       <e p="node_modules/fable-loader" t="IncludeRecursive" />
       <e p="node_modules/font-awesome" t="IncludeRecursive" />
+      <e p="node_modules/html-loader" t="IncludeRecursive" />
       <e p="node_modules/html-webpack-plugin" t="IncludeRecursive" />
+      <e p="node_modules/jsx-loader" t="IncludeRecursive" />
       <e p="node_modules/node-sass" t="IncludeRecursive" />
       <e p="node_modules/postcss" t="IncludeRecursive" />
       <e p="node_modules/postcss-loader" t="IncludeRecursive" />
